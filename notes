@@ -1,0 +1,24 @@
+2   SVC 	                        98.25   *
+4 	Random Forest Classifier 	    98.25
+
+0 	Logistic Regression 	        96.49   *
+
+1 	KNN 	                        95.61   *
+
+
+
+
+
+
+
+
+
+
+
+2   SVC 	                        98.25
+4 	Random Forest Classifier 	    98.25
+5 	Gradient Boosting Classifier 	97.37
+0 	Logistic Regression 	        96.49
+6 	XgBoost 	                    96.49
+1 	KNN 	                        95.61
+3 	Decision Tree Classifier 	    92.9
